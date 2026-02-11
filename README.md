@@ -1,5 +1,5 @@
 # Business cases
-## Project Overview
+## Project Overview:
 
 The **Business Cases Web Application** is a high-performance, modern platform designed for business education. It allows users to listen to detailed business cases with advanced playback controls and multi-language support, while providing administrators with a robust dashboard to manage educational content.
 
